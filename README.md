@@ -23,10 +23,10 @@ if %var =<
                 Will ride upon the dragon's back 
   } 
 
-  # Because the mountains don't give back what they take
-  # Oh no, there will be blood (blood) shed (shed)
-  # It's the only thing I've ever known
-  # Losing my identity
-  # Wondering, "Have I gone insane?"
-  # To find the truth in front of me I must climb this mountain range
-  # Looking downward from this deadly height and never realizing why I fight
+  -Because the mountains don't give back what they take
+  -Oh no, there will be blood (blood) shed (shed)
+  -It's the only thing I've ever known
+  -Losing my identity
+  -Wondering, "Have I gone insane?"
+  -To find the truth in front of me I must climb this mountain range
+  -Looking downward from this deadly height and never realizing why I fight
