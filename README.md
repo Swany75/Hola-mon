@@ -1,6 +1,6 @@
 # Hola-mon
-# Hola! Som en James de es team rocket
-# Es programadors me matareu, perdonau (es per un treball)
+Hola! Som en James de es team rocket
+Es programadors me matareu, perdonau (es per un treball)
 
 void setup () {
   Memories broken, the truth goes unspoken
