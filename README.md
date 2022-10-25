@@ -3,20 +3,27 @@ Hola! Som en James de es team rocket
 Es programadors me mataran, no se programar (es per un treball xD)
 
 void setup () {
-  Wash away the anger
-    Here I stand beneath the warm and soothing rain
-      The droplets falling gently down on the terrain
-        Wash away the sorrow, all the stains of time
-          But there's no memory, it's only dry inside
-            In the mud and sinking deeper into a peaceful life
-
-  }
+  I've come here from nowhere
+  Across the unforgiving sea
+  Drifting further and further
+  It's all becoming clear to me
+    
+    But violent winds are upon us and I can't sleep
+    Internal temperatures rising and all the voices won't recede
+    
+ }
 
 void update () {
-  And it will come like a flood of pain pouring down on me
-    And it will not let up until the end is here
-      And it will come through the darkest day, in my final hour
-        And it will never rest until the clouds are clear
-          Until it finds my dreams have disappeared
+  I've finally found what I was looking for
+  A place where I can be without remorse
+  Because I am a stranger who has found an even stranger war
+  I've finally found what I was looking for
 
-  }
+    Here I come
+  
+  I sharpen the knife and look down upon the bay
+  For all of my life a stranger I remain
+  A stranger I remain
+  A stranger I remain
+  
+}
