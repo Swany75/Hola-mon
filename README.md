@@ -1,6 +1,6 @@
 # Hola-mon
-# Hola! Som en James de es team rocket
-# Es programadors me mataran, no se programar (es per un treball xD)
+Hola! Som en James de es team rocket
+Es programadors me mataran, no se programar (es per un treball xD)
 
 void setup () {
   Wash away the anger
