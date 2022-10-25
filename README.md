@@ -1,29 +1,32 @@
 # Hola-mon
 Hola! Som en James de es team rocket
-Es programadors me mataran, no se programar (es per un treball xD)
+Es programadors me matareu, perdonau (es per un treball)
 
 void setup () {
-  I've come here from nowhere
-  Across the unforgiving sea
-  Drifting further and further
-  It's all becoming clear to me
-    
-    But violent winds are upon us and I can't sleep
-    Internal temperatures rising and all the voices won't recede
-    
- }
+  Memories broken, the truth goes unspoken
+    I've even forgotten my name
+      I don't know the season or what is the reason
+         I'm standing here holding my blade
+  }
 
 void update () {
-  I've finally found what I was looking for
-  A place where I can be without remorse
-  Because I am a stranger who has found an even stranger war
-  I've finally found what I was looking for
+if %var =<
+  A desolate place (place)
+    Without any trace (trace)
+      It's only the cold wind I feel
+          It's me that I spite as I stand up and fight
+          
+  } else { The only thing I know for real
+    There will be blood (blood) shed (shed)
+        The man in the mirror nods his head
+            The only one (one) left (left)
+                Will ride upon the dragon's back 
+  } 
 
-    Here I come
-  
-  I sharpen the knife and look down upon the bay
-  For all of my life a stranger I remain
-  A stranger I remain
-  A stranger I remain
-  
-}
+  -Because the mountains don't give back what they take
+  -Oh no, there will be blood (blood) shed (shed)
+  -It's the only thing I've ever known
+  -Losing my identity
+  -Wondering, "Have I gone insane?"
+  -To find the truth in front of me I must climb this mountain range
+  -Looking downward from this deadly height and never realizing why I fight
